@@ -13,6 +13,10 @@ This program calculating the amount of interest you'll earn on your investment o
 **Output:**
 Calculating interest with the given values
 
+![Compound Interest](https://github.com/scktom/finalCapstone/blob/master/Capstone%20Project%20-%20Variables%20and%20Control%20Structures/compound_interest.png)
+
+![Simple Interest](https://github.com/scktom/finalCapstone/blob/master/Capstone%20Project%20-%20Variables%20and%20Control%20Structures/simple_interest.png)
+
 ## Bond command
 
 **Inputs:**
@@ -22,3 +26,5 @@ Calculating interest with the given values
 
 **Output:**
 Calculating the monthly payment ammount with number of months
+
+![Home loan](https://github.com/scktom/finalCapstone/blob/master/Capstone%20Project%20-%20Variables%20and%20Control%20Structures/home_loan.png)
