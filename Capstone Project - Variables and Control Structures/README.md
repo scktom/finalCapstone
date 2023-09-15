@@ -1,6 +1,6 @@
 # Capstone Project I — Variables and Control Structures
 
-This program calculating the amount of interest you'll earn on your investment or the amount you'll have to pay on a home loan. Only choose the commands.
+This program calculates the amount of interest you'll earn on your investment or the amount you'll have to pay on a mortgage. The program only supports the Investment and Bond commands below.
 
 ## Investment command
 
@@ -11,7 +11,7 @@ This program calculating the amount of interest you'll earn on your investment o
 4. simple or compound interest calculating
 
 **Output:**
-Calculating interest with the given values
+Calculates interest with the given values
 
 ![Compound Interest](https://github.com/scktom/finalCapstone/blob/master/Capstone%20Project%20-%20Variables%20and%20Control%20Structures/compound_interest.png)
 
@@ -25,6 +25,6 @@ Calculating interest with the given values
 3. The number of months they plan to take to repay the bond
 
 **Output:**
-Calculating the monthly payment ammount with number of months
+Calculates the monthly payment ammount with number of months
 
 ![Home loan](https://github.com/scktom/finalCapstone/blob/master/Capstone%20Project%20-%20Variables%20and%20Control%20Structures/home_loan.png)
